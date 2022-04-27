@@ -1,4 +1,4 @@
-# agile-manifesto
+# Agile Manifesto
 [Manifesto](http://agilemanifesto.org/) for Agile Software Development
 
 **Individuals and interactions** over processes and tools  
